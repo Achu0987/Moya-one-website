@@ -1919,3 +1919,9 @@ body {
     max-width: 300px;
   }
 }
+
+@media (max-width: 700px) {
+  .hero-dots {
+    display: none;
+  }
+}
